@@ -1,8 +1,4 @@
-Here is the **English translation** of your text:
-
----
-
-# IDM Activation Script
+# IDM Resetter Script
 
 An open-source tool used to activate and reset the trial period of **Internet Download Manager (IDM)**.
 
@@ -177,6 +173,7 @@ Firefox:
 | AveYo (BAU)   | Registry snippet                                            |
 | abbodi1406    | Coding help                                                 |
 | WindowsAddict | Original IAS author                                         |
+| Bug Fixing    | SajibWh0                                                    |
 
 Thanks to IAS users for their attention, feedback, and support.
 
