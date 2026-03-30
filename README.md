@@ -21,7 +21,7 @@ I want to clarify that I am not the original author of this script. I created th
 ## IAS Latest Version
 
 Latest version – **v1.2 (12-Feb-2024)**
-GitHub: [https://github.com/hanmaoye/IDM-Activation-Script](https://github.com/hanmaoye/IDM-Activation-Script)
+GitHub: [https://github.com/SajibWh0/IDM-Resetter](https://github.com/SajibWh0/IDM-Resetter)
 
 ## Download / How to use it?
 
@@ -46,7 +46,7 @@ iex(irm is.gd/iAS)
 or
 
 ```shell
-iwr -useb https://raw.githubusercontent.com/hanmaoye/IDM-Activation-Script/main/IAS.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/SajibWh0/IDM-Resetter/main/IAS.ps1 | iex
 ```
 
 or
@@ -61,7 +61,7 @@ iwr -useb https://is.gd/iAS | iex
 ## Method 2 – Traditional
 
 * Download the file from GitHub:
-  [https://github.com/hanmaoye/IDM-Activation-Script/archive/refs/heads/main.zip](https://github.com/hanmaoye/IDM-Activation-Script/archive/refs/heads/main.zip)
+  [https://github.com/SajibWh0/IDM-Resetter/archive/refs/heads/main.zip](https://github.com/SajibWh0/IDM-Resetter/archive/refs/heads/main.zip)
 * Right-click the downloaded ZIP file and extract it
 * Right-click and run `IAS.cmd`
 * You will see activation options. Follow the instructions.
