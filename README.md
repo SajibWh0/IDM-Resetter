@@ -173,7 +173,7 @@ Firefox:
 | AveYo (BAU)   | Registry snippet                                            |
 | abbodi1406    | Coding help                                                 |
 | WindowsAddict | Original IAS author                                         |
-| Bug Fixing    | SajibWh0                                                    |
+| SajibWh0      | Bug Fixing                                                  |
 
 Thanks to IAS users for their attention, feedback, and support.
 
