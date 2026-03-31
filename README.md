@@ -162,8 +162,9 @@ Firefox:
 * Added info message when deleting large numbers of empty registry keys.
 
 ## Screenshots
+<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/yF4W4tcn/image.png" alt="image" border="0" /></a>
 
-(IAS interface screenshots)
+
 
 ## Credits
 
