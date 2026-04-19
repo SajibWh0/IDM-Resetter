@@ -397,10 +397,11 @@ if not defined terminal mode 75, 28
 
 echo:
 echo:
-call :_color2 %_White% "             " %_Green% "IDM Resetter :-: Create By SAJIB"
+call :_color2 %_White% "             " %_Green% "IDM Resetter .:. SajibWho"
 echo:            ___________________________________________________ 
 echo:
 echo:               Github: https://github.com/SajibWh0
+echo:               Telegram: t.me/sajibwho
 echo:            ___________________________________________________ 
 echo:                                                               
 echo:               [1] Activate
